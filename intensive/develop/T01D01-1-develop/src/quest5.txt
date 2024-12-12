@@ -1,0 +1,4 @@
+1. cd T01D01-1/src/door_management_files/door_configuration
+2. nano door_1.conf
+3. Изменил "CLOSED" на "OPEN" и сохранил файл
+

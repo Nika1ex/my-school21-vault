@@ -1,0 +1,12 @@
+This is a test file for testing the custom cat utility.
+It contains various lines of text, including some special characters.
+Here are some lines with empty spaces:
+
+This line has a tab character:    and this line has a newline character.
+
+
+This line should be numbered.
+This is another line.
+This is the last line of the test file.
+
+# End of the test file

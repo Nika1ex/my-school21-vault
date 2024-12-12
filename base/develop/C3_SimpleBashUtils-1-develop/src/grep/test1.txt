@@ -1,0 +1,31 @@
+Hello, World!
+This is a test file for testing custom grep command.
+Test with flags: -e, -i, -v, -c, -l, -n, -h, -s, -f, -o.
+89000000000
+It contains various lines of text.
+89000000001
+Some lines contain the word "grep".
++79000000002
+Others contain the word "custom".
++79000000003
+Let's see how our grep implementation grep performs.
++7(900)000-00-04
+Testing grep case sensitivity: GREP should not match grep.
++7(900)0000007
+Testing numbers: 12345 and 67890 should be ignored.
++7 (900)0000008
+Special characters: @#$%^&*()!\!"'-+=_`~[]][[^[:[.[=[^]?|  should not affect matching.
++7 900 000 00 08
+Empty lines should also be handled properly.
+
+Another line with the word "test" to check for matches.
++8 900 000 00 08
+The quick brown fox jumps over the lazy dog.
++7 900 000 +00 08
+End of the test file.
+
+# Sample comments for testing
+# grep is a powerful tool for searching text
+# Custom implementations can vary in behavior
+
+^(\+7|8)\s?\(?9[0-9]{2}\)?((-|\s)?[0-9]){7}

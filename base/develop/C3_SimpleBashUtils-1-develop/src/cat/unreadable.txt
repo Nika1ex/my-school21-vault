@@ -1,0 +1,1 @@
+This is an unreadable file for testing custom cat command.
