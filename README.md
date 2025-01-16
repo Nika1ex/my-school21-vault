@@ -15,3 +15,7 @@ This repository is intended to show my studies results at School 21. Completed (
 ## Core program result
 
 ![img | 500](screenshots/C3_SimpleBashUtils.jpg)
+
+![img | 500](screenshots/D01_Linux.jpg)
+
+![img | 500](screenshots/DO2_LinuxNetwork.jpg)
